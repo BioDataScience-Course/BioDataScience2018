@@ -1,5 +1,10 @@
 # BioDataScience News
 
+## Chages to BioDataScience2018
+
+- The BioDataScience developed with SciViews Box 2018 is now frozen as
+  BioDataScience2018 with version number 0.24.1
+
 ## Changes in version 0.24.0
 
 - Tutorial examen_c finalized

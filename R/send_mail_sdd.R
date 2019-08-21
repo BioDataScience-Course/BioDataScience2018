@@ -1,4 +1,4 @@
-#' Send your BioDataScience submissions by email
+#' Send your BioDataScience2018 submissions by email
 #'
 #' @param file The file that contains your submissions information.
 #'
@@ -13,14 +13,14 @@
 #' @export
 #' @seealso [run()]
 #' @keywords utilities
-#' @concept run interactive learnr documents from the BioDataScience package
+#' @concept run interactive learnr documents from the BioDataScience2018 package
 #' @examples
 #' # To start from a list of available tutorials:
 #' run()
 #' \dontrun{
 #' run("02b_nuage_points")
 #' }
-send_mail_sdd <- function(file = "~/.local/share/R/learnr/biodatascience") {
+send_mail_sdd <- function(file = "~/.local/share/R/learnr/biodatascience2018") {
   if (file.exists(file)) {
     data <- readLines(file)
     file.rename(file, paste0(file, ".bak")) # One backup, just in case!

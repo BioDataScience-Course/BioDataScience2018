@@ -2,9 +2,9 @@
 % Please edit documentation in R/send_mail_sdd.R
 \name{send_mail_sdd}
 \alias{send_mail_sdd}
-\title{Send your BioDataScience submissions by email}
+\title{Send your BioDataScience2018 submissions by email}
 \usage{
-send_mail_sdd(file = "~/.local/share/R/learnr/biodatascience")
+send_mail_sdd(file = "~/.local/share/R/learnr/biodatascience2018")
 }
 \arguments{
 \item{file}{The file that contains your submissions information.}
@@ -30,7 +30,5 @@ run("02b_nuage_points")
 \seealso{
 \code{\link[=run]{run()}}
 }
-\concept{
-run interactive learnr documents from the BioDataScience package
-}
+\concept{run interactive learnr documents from the BioDataScience2018 package}
 \keyword{utilities}

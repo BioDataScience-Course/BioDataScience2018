@@ -1,4 +1,4 @@
-#' Run learnr tutorials from the BioDataScience package
+#' Run learnr tutorials from the BioDataScience2018 package
 #'
 #' @param tutorial The name of the tutorial to use. If not provided, a list of
 #' available tutorials is displayed.
@@ -16,7 +16,7 @@
 #' @export
 #' @seealso [run_tutorial()]
 #' @keywords utilities
-#' @concept run interactive learnr documents from the BioDataScience package
+#' @concept run interactive learnr documents from the BioDataScience2018 package
 #' @examples
 #' # To start from a list of available tutorials:
 #' run()

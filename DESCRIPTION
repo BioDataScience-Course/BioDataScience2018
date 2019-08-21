@@ -1,7 +1,7 @@
-Package: BioDataScience
+Package: BioDataScience2018
 Type: Package
 Version: 0.24.0
-Title: A Series of Learnr Documents for Biological Data Science
+Title: A Series of Learnr Documents for Biological Data Science (2018 version)
 Description: Interactive documents using learnr for studying biological data science.
 Authors@R: c(
   person("Philippe", "Grosjean", role = c("aut", "cre"),
@@ -15,8 +15,8 @@ Suggests: SciViews, ggplot2, ggpubr, data.io, flow, chart, covr, knitr, testthat
 License: CC BY-SA 4.0
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/BioDataScience-Course/BioDataScience
+URL: https://github.com/BioDataScience-Course/BioDataScience2018
 BugReports: https://github.com/BioDataScience-Course/BioDataScience/issues
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 VignetteBuilder: knitr

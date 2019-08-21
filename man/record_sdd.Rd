@@ -4,7 +4,9 @@
 \alias{record_sdd}
 \alias{user_name}
 \alias{user_email}
-\title{Record results on a centralized database}
+\title{Record results on a centralized database (note that old releases like the
+present one stop recording results; use BioDataScience with latest SciViews
+Box to use this feature).}
 \usage{
 record_sdd(tutorial_id, tutorial_version, user_id, event, data)
 
@@ -37,7 +39,5 @@ function is used by learnr tutorials and is not for end-users.
 \seealso{
 \code{\link[=run]{run()}}
 }
-\concept{
-record events from the BioDataScience package
-}
+\concept{record events from the BioDataScience package}
 \keyword{utilities}

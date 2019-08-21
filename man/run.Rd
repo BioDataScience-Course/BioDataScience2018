@@ -2,7 +2,7 @@
 % Please edit documentation in R/run.R
 \name{run}
 \alias{run}
-\title{Run learnr tutorials from the BioDataScience package}
+\title{Run learnr tutorials from the BioDataScience2018 package}
 \usage{
 run(tutorial, ..., update = ask, ask = interactive())
 }
@@ -36,7 +36,5 @@ run("02b_nuage_points")
 \seealso{
 \code{\link[=run_tutorial]{run_tutorial()}}
 }
-\concept{
-run interactive learnr documents from the BioDataScience package
-}
+\concept{run interactive learnr documents from the BioDataScience2018 package}
 \keyword{utilities}

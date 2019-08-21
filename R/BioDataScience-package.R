@@ -1,4 +1,4 @@
-#' A Series of Learnr Documents for BioDataScience
+#' A Series of Learnr Documents for BioDataScience (2018 version)
 #'
 #' Material for the course.
 #'
@@ -7,7 +7,7 @@
 #' - [run()] is the main function to launch learnr interactive documents
 #'
 #' @docType package
-#' @name BioDataScience-package
+#' @name BioDataScience2018-package
 #'
 #' @importFrom learnr run_tutorial
 #' @importFrom httr content status_code parse_url authenticate GET

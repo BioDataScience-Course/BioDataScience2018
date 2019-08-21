@@ -1,10 +1,10 @@
-# BioDataScience - Learnr Documents
+# BioDataScience2018 - Learnr Documents
 
-[![Linux & OSX Build Status](https://travis-ci.org/SciViews/BioDataScience.svg )](https://travis-ci.org/SciViews/BioDataScience)
-[![Win Build Status](https://ci.appveyor.com/api/projects/status/github/SciViews/BioDataScience?branch=master&svg=true)](http://ci.appveyor.com/project/phgrosjean/BioDataScience)
-[![Coverage Status](https://img.shields.io/codecov/c/github/SciViews/BioDataScience/master.svg)
-](https://codecov.io/github/SciViews/BioDataScience?branch=master)
-[![CRAN Status](http://www.r-pkg.org/badges/version/BioDataScience)](http://cran.r-project.org/package=BioDataScience)
+[![Linux & OSX Build Status](https://travis-ci.org/SciViews/BioDataScience2018.svg )](https://travis-ci.org/SciViews/BioDataScience2018)
+[![Win Build Status](https://ci.appveyor.com/api/projects/status/github/SciViews/BioDataScience2018?branch=master&svg=true)](http://ci.appveyor.com/project/phgrosjean/BioDataScience2018)
+[![Coverage Status](https://img.shields.io/codecov/c/github/SciViews/BioDataScience2018/master.svg)
+](https://codecov.io/github/SciViews/BioDataScience2018?branch=master)
+[![CRAN Status](http://www.r-pkg.org/badges/version/BioDataScience2018)](http://cran.r-project.org/package=BioDataScience2018)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
@@ -12,11 +12,7 @@
 
 ### Latest stable version
 
-The latest stable version of **BioDataScience** can simply be installed from [CRAN](http://cran.r-project.org):
-
-```r
-install.packages("BioDataScience")
-```
+The latest stable version of **BioDataScience** can be found on the [BioDataScience repository](https://github.com/BioDataScience-Course/BioDataScience.git)
 
 
 ### Development version
@@ -27,30 +23,30 @@ Make sure you have the **devtools** R package installed:
 install.packages("devtools")
 ```
 
-Use `install_github()` to install the **BioDataScience** package from Github (source from **master** branch will be recompiled on your machine):
+Use `install_github()` to install the **BioDataScience2018** package from Github (source from **master** branch will be recompiled on your machine):
 
 ```r
-devtools::install_github("BioDataScience-Course/BioDataScience")
+devtools::install_github("BioDataScience-Course/BioDataScience2018")
 ```
 
-R should install all required dependencies automatically, and then it should compile and install **BioDataScience**.
+R should install all required dependencies automatically, and then it should compile and install **BioDataScience2018**.
 
-Latest devel version of **BioDataScience** (source + Windows binaires for the latest stable version of R at the time of compilation) is also available from [appveyor](https://ci.appveyor.com/project/phgrosjean/BioDataScience/build/artifacts).
+Latest devel version of **BioDataScience2018** (source + Windows binaires for the latest stable version of R at the time of compilation) is also available from [appveyor](https://ci.appveyor.com/project/phgrosjean/BioDataScience2018/build/artifacts).
 
 
 ## Usage
 
-Make the **BioDataScience** package available in your R session:
+Make the **BioDataScience2018** package available in your R session:
 
 ```r
-library("BioDataScience")
+library("BioDataScience2018")
 ```
 
 Get help about this package:
 
 ```r
-library(help = "BioDataScience")
-help("BioDataScience-package")
+library(help = "BioDataScience2018")
+help("BioDataScience2018-package")
 ```
 
 For further instructions, please, refer to these help pages.
